@@ -8,11 +8,7 @@ An application used to track the purchase and use the chart to visualize it for 
 
 #### On Progress:
 
-This project is currently in development. Users can add the purchase items and select the specific year, the authentication and styling is in progress.
-
-
-## Project Screen Shot
-<img width="782" alt="image" src="https://github.com/YuluDuan/purchase-tracker/assets/92232261/faf74686-8856-4a7e-bb39-cdb159dc91da">
+This project is currently in development. Users can add the purchase items and select the specific year, the authentication and styling are in progress.
 
 ## Installation and Setup Instructions
 
